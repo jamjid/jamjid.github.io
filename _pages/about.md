@@ -12,5 +12,5 @@ I obtained my Master of Science degree in Data Science from the University of Ma
 
 You can find my CV here: [Xinyi Ding's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:ding.xinyi@connect.umac.mo) / [Github](https://github.com/jamjid) / [Wechat](../images/wechat.jpg) 
+[Email](mailto:ding.xinyi@connect.umac.mo) / [Github](https://github.com/jamjid) / [Wechat](../images/WeChat.jpg) 
 
